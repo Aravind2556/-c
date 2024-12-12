@@ -71,7 +71,7 @@ const Footer = () => {
         </div>
           <div>
         <p>
-          Address: <b>123 Tech Street, Innovation City, Techland, 56789</b>
+          Address: <b>catcaify, kalapatti post , coimbatore-641-048</b>
         </p>
         
       </div>
